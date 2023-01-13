@@ -1,10 +1,12 @@
-div.container{
-	width:200px;
-	background-color:purple;
-	border-left: 5px solid green;
-	padding: 10px;
+.main{
+    width:200px;
+    background-color: purple;
+    border-left: 5px solid green;
+    padding: 10px;
+    font-size: 20px;
 }
-.h1{
-	color:white;
-	font-size:20px;
+
+#heading{
+    color: white;
+    font-size: 20px;
 }
